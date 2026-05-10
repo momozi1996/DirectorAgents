@@ -1,14 +1,14 @@
-# 🎬 ClawTeam导演智囊团
+# 🎬 DirectorAgents导演智囊团
 
 > 让31位世界著名导演成为你的创作智囊团
 
-[![GitHub stars](https://img.shields.io/github/stars/momozi1996/clawteam-directors-orchestrator?style=social)](https://github.com/momozi1996/clawteam-directors-orchestrator)
+[![GitHub stars](https://img.shields.io/github/stars/momozi1996/DirectorAgents?style=social)](https://github.com/momozi1996/DirectorAgents)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-green.svg)](https://github.com/OpenClaw)
 
 ## 📖 项目简介
 
-**ClawTeam导演智囊团**是一个基于多智能体（Multi-Agent）框架的创意协作系统，整合了31位世界著名导演的风格思想、视觉语言和叙事手法。通过顺序链、辩论投票、主席团三种协作模式，为剧本创作、影像设计和叙事决策提供大师级的创意支持。
+**DirectorAgents导演智囊团**是一个基于多智能体（Multi-Agent）框架的创意协作系统，整合了31位世界著名导演的风格思想、视觉语言和叙事手法。通过顺序链、辩论投票、主席团三种协作模式，为剧本创作、影像设计和叙事决策提供大师级的创意支持。
 
 ### ✨ 核心特性
 
@@ -75,7 +75,7 @@
 
 ```bash
 # 复制到 skills 目录
-cp -r clawteam-directors-orchestrator ~/.stepclaw/skills/
+cp -r DirectorAgents ~/.stepclaw/skills/
 
 # 重启 OpenClaw 或刷新 skills 列表
 openclaw skills refresh
@@ -84,8 +84,8 @@ openclaw skills refresh
 #### 方式二：手动安装
 
 ```bash
-git clone https://github.com/momozi1996/clawteam-directors-orchestrator.git
-cd clawteam-directors-orchestrator
+git clone https://github.com/momozi1996/DirectorAgents.git
+cd DirectorAgents
 ```
 
 ### 使用
@@ -95,7 +95,7 @@ cd clawteam-directors-orchestrator
 激活系统后，使用以下触发词：
 
 - `导演智囊团` - 启动完整系统
-- `ClawTeam` - 快捷调用
+- `DirectorAgents` - 快捷调用
 - `多导演协作` - 强调协作模式
 - `剧本创作` - 聚焦剧本场景
 - `影像风格` - 聚焦视觉设计
@@ -191,7 +191,7 @@ cd clawteam-directors-orchestrator
 ## 📁 项目结构
 
 ```
-clawteam-directors-orchestrator/
+DirectorAgents/
 ├── README.md                    # 项目说明
 ├── SKILL.md                     # 主技能文件（OpenClaw/StepClaw）
 ├── LICENSE                      # 开源协议
@@ -308,7 +308,7 @@ clawteam-directors-orchestrator/
 ## 📚 理论基础
 
 ### 多智能体系统（Multi-Agent Systems）
-- 基于ClawTeam框架
+- 基于DirectorAgents框架
 - 参考Mixture of Agents (MoA) 研究
 - 顺序链、辩论投票、主席团三种协作模式
 
@@ -354,16 +354,16 @@ clawteam-directors-orchestrator/
 
 ## 📞 联系方式
 
-- GitHub Issues: [提交问题或建议](https://github.com/momozi1996/clawteam-directors-orchestrator/issues)
+- GitHub Issues: [提交问题或建议](https://github.com/momozi1996/DirectorAgents/issues)
 - 邮件：your-email@example.com
 - Twitter：[@yourhandle](https://twitter.com/yourhandle)
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=momozi1996/clawteam-directors-orchestrator&type=Date)](https://star-history.com/#momozi1996/clawteam-directors-orchestrator&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=momozi1996/DirectorAgents&type=Date)](https://star-history.com/#momozi1996/DirectorAgents&Date)
 
 ---
 
 > "电影是每秒24格的真理。" —— 让-吕克·戈达尔
 > 
-> "让31位大师为你掌镜。" —— ClawTeam导演智囊团
+> "让31位大师为你掌镜。" —— DirectorAgents导演智囊团
