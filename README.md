@@ -355,11 +355,29 @@ DirectorAgents/
 - **31位导演**：他们的作品和思想是本项目的基础
 - **电影研究者**：他们的分析帮助我们理解导演风格
 
-## 📞 联系方式
+##  关于作者
+ **momozi**  — AI 博主，AI行业技术产品经理，AI 公众号「momo子讲AI」主理人
 
-- GitHub Issues: [提交问题或建议](https://github.com/momozi1996/DirectorAgents/issues)
-- 邮件：your-email@example.com
-- Twitter：[@yourhandle](https://twitter.com/yourhandle)
+16岁高考，省前0.3%，北理本硕<br>
+⭐某大模型公司-基座Agent训练技术PM<br>
+🏆ex美团AI搜索问答策略产品<br>
+🍧ex商汤大模型高级技术产品<br>
+🥇ex百度飞桨和百度研究院 AI技术产品<br>
+
+
+| 　　平台　 |　名字　| 链接 |
+|-----------|------|------|
+| 𝕏 |Momozi @yanmo1618677|[https://x.com/yanmo1618677](https://x.com/yanmo1618677)|
+| 公众号 |momo子讲AI|[https://mp.weixin.qq.com/s/ymQiecaXzufzFAXbLmm-dw](https://mp.weixin.qq.com/s/ymQiecaXzufzFAXbLmm-dw)|
+| 小红书 |momo子讲AI|[https://www.xiaohongshu.com/user/profile/5ae3553911be1017b6d62eaa](https://www.xiaohongshu.com/user/profile/5ae3553911be1017b6d62eaa)|
+
+
+
+|微信公众号「momo子讲AI」二维码：|小红书「momo子讲AI」二维码：|
+|-----------|------|
+|<img width="748" height="720" alt="微信图片_20260418122454_270_84" src="https://github.com/user-attachments/assets/69df13e0-f949-4a4e-b051-128d75ad38a6" />|<img width="987" height="1347" alt="微信图片_20260418122519_271_84" src="https://github.com/user-attachments/assets/e480dc00-7cd0-4e76-919e-98fb3f9f3676" />|
+
+---
 
 ## 🌟 Star History
 
