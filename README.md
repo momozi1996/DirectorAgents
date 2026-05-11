@@ -19,9 +19,6 @@
 - 🎬 **叙事结构优化**：时间线、视角、节奏的专业指导
 - 🌍 **跨文化融合**：东西方美学碰撞，创造独特视角
 
-<img width="1536" height="1024" alt="ChatGPT Image 2026年5月11日 22_22_14" src="https://github.com/user-attachments/assets/0f17039c-7b0b-4222-9128-4742a39d93f1" />
-
-
 
 ## 🎭 导演阵容
 
