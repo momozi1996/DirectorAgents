@@ -20,6 +20,8 @@
 - 🌍 **跨文化融合**：东西方美学碰撞，创造独特视角
 
 
+<img width="800" height="533" alt="ChatGPT Image 2026年5月11日 22_22_14_副本" src="https://github.com/user-attachments/assets/7136952c-8ee9-493e-aa43-7799a264e116" />
+
 ## 🎭 导演阵容
 
 ### 华语导演（15位）
